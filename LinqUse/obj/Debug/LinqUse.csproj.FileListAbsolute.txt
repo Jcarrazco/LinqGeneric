@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\bin\Debug\LinqUse.exe.config
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\bin\Debug\LinqUse.exe
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\bin\Debug\LinqUse.pdb
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\obj\Debug\LinqUse.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\obj\Debug\LinqUse.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\obj\Debug\LinqUse.exe
+C:\Users\carrascoja\source\repos\LinqUse\LinqUse\obj\Debug\LinqUse.pdb
